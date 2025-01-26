@@ -1,4 +1,4 @@
-# Processus de suppression de compte - Encafé
+# Processus de suppression de compte - ENCAFE
 
 Ce document explique comment supprimer votre compte et toutes les données associées dans l'application Encafé.
 
